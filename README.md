@@ -82,8 +82,7 @@ Connect to your dataset (or use the sample dataset provided).
 Explore the dashboard and customize filters as needed.
 
 📷 Sample Dashboard Preview
-
-(file:///C:/Users/Anudip/Pictures/Capture..)
+(file:///C:/Users/Anudip/Pictures/Capture..PNG)
 
 📈 Key Insights from the Dashboard
 
