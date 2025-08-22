@@ -83,7 +83,7 @@ Explore the dashboard and customize filters as needed.
 
 📷 Sample Dashboard Preview
 
-(file:///C:/Users/Anudip/Pictures/Capture..PNG)
+(file:///C:/Users/Anudip/Pictures/Screenshot%20(9).png)
 
 📈 Key Insights from the Dashboard
 
