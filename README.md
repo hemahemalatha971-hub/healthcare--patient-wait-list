@@ -82,7 +82,7 @@ Connect to your dataset (or use the sample dataset provided).
 Explore the dashboard and customize filters as needed.
 
 📷 Sample Dashboard Preview
-(file:///C:/Users/Anudip/Pictures/Screenshot%20(9).png)
+![Healthcare Dashboard](file:///C:/Users/Anudip/Pictures/Screenshot%20(9).png)
 
 📈 Key Insights from the Dashboard
 
